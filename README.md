@@ -8,7 +8,7 @@ Public-facing pages for [Spindot](https://apps.apple.com/) (the private app repo
 
 Served via **GitHub Pages** from the repo root.
 
-## URLs (after Pages is enabled)
+## URLs
 
 - Landing: `https://github.com/Adham1992KH/spindot-info/tree/main`
 - Privacy: `https://adham1992kh.github.io/spindot-info/privacy.md`
