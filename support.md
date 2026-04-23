@@ -57,7 +57,7 @@ iOS 17 and later, iPhone and iPad, universal.
 
 ### Is my data sold?
 
-No. The app itself stores your progress only on your device. Ads are served by Google AdMob, which may use standard mobile-advertising identifiers; see our [Privacy Policy](./privacy.md) for the full breakdown.
+No. The app itself stores your progress only on your device. Ads are served by Google AdMob, which may use standard mobile-advertising identifiers; see our [Privacy Policy](./privacy.html) for the full breakdown.
 
 ## Privacy
 
