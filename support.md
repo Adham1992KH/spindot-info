@@ -11,7 +11,7 @@ Need help? You're in the right place.
 
 For anything at all — bug reports, feature requests, account/App Store issues, general questions — email:
 
-**📧 you@example.com**
+**📧 mypawpal.application@gmail.com**
 
 We aim to reply within 2 business days.
 
