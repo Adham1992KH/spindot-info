@@ -75,7 +75,7 @@ If we update this policy, we'll change the date at the top and, if the change is
 
 ## Contact
 
-Questions about this policy? Email **you@example.com**.
+Questions about this policy? Email **mypawpal.application@gmail.com**.
 
 ---
 
