@@ -1,6 +1,6 @@
 # Spindot — info site
 
-Public-facing pages for [Spindot](https://apps.apple.com/):
+Public-facing pages for Spindot:
 
 - `index.md` → app landing page
 - `privacy.md` → privacy policy, linked from the iOS app and App Store Connect
